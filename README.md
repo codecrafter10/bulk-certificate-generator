@@ -390,5 +390,8 @@ ReportLab generates an individual landscape A4 PDF for each recipient using a pr
 
 Add the license required by your assignment or repository.
 
+Author: Zaid Ali
+Email: zaidali.za2635@gmail.com
+
 
 
